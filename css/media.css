@@ -278,6 +278,9 @@
 }
 
 @media (max-width: 487px) {
+    .header__title {
+        font-size: 29px;
+    }
     .blog__btn-more {
         left: 3px;
     }
